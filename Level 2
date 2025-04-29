@@ -1,0 +1,11 @@
+Level 2 Mission -  Create a script that outputs the numbers 1 to 10, one number per line.
+
+
+
+
+
+Level 2 completed 
+I utilised the while loop to create a script that continues outputing numbers.
+I made a variable then made a while loop and inside of it I called my variable and essentially said if this variable is less then 10 then
+underneath it I echoed it to print out Numbers and underneath that I made sure that I incremented the variable by one each iteration. 
+
